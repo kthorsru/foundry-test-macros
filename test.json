@@ -1,0 +1,32 @@
+{
+  "id": "test-macro-pack",
+  "title": "Test Macro Pack",
+  "description": "A simple test module to verify dependency installation works",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13",
+    "maximum": "13"
+  },
+  "authors": [{
+    "name": "Test Author"
+  }],
+  "relationships": {
+    "requires": [
+      {
+        "id": "pf2e-tokens-character-gallery",
+        "type": "module"
+      },
+      {
+        "id": "pf2e-tokens-myth-and-magic",
+        "type": "module"
+      },
+      {
+        "id": "pf2e-tokens-npc-core",
+        "type": "module"
+      }
+    ]
+  },
+  "manifest": "https://dl.dropboxusercontent.com/scl/fi/97yskulc23tuciq5ta9q9/test.json?rlkey=0w47rslqdbz13azk4z7c8e3um",
+  "download": "https://dl.dropboxusercontent.com/scl/fi/1wr3dz3tpnnht01ru0n86/test-macro-pack.zip?rlkey=kmu76xy2rgtu55dfwbaijoqol"
+}
