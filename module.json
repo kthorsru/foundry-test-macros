@@ -27,6 +27,7 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/kthorsru/foundry-test-macros/refs/heads/main/test.json",
+  "manifest": "https://raw.githubusercontent.com/kthorsru/foundry-test-macros/refs/heads/main/module.json",
   "download": "https://github.com/kthorsru/foundry-test-macros/releases/download/v1.0.0/test-macro-pack.zip"
 }
+
